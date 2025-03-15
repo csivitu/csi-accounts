@@ -31,4 +31,4 @@ const (
 	Participant EventRole = "participant"
 	Coordinator EventRole = "coordinator"
 	Admin       EventRole = "admin"
-)
+) 
